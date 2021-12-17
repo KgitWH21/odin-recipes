@@ -1,4 +1,3 @@
 # odin-recipes
 My TOP recipe project
-This is my first project with TOP.
-I will demonstrate basic HTML knowledge during this project.
+I will demonstrate the use of basic HTML tags and how to set up a basic website.
