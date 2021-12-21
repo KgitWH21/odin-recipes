@@ -10,5 +10,13 @@
 }
 
 h2 {
-    background-color: #ffff00;
+    background-color: #00b7ff;
+    color: white;
+}
+
+.content {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+    text-align: center;
+    background-color: hsl(120,100%,50%);
 }
