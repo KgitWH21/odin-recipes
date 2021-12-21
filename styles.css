@@ -9,6 +9,10 @@
     width: 150px;
 }
 
+.intro {
+    font-size: 32px;
+}
+
 h2 {
     background-color: #00b7ff;
     color: white;
